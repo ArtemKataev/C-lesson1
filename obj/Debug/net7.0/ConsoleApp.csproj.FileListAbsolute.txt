@@ -1,0 +1,15 @@
+C:\Games\Desktop\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Games\Desktop\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Desktop\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Games\Desktop\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+C:\Games\Desktop\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Games\Desktop\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+C:\Games\Desktop\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+C:\Games\Desktop\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+C:\Games\Desktop\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+C:\Games\Desktop\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+C:\Games\Desktop\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+C:\Games\Desktop\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+C:\Games\Desktop\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+C:\Games\Desktop\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+C:\Games\Desktop\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
